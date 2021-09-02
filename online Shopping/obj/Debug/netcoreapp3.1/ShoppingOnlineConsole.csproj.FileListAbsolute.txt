@@ -1,0 +1,36 @@
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\ShoppingOnlineConsole.exe
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\ShoppingOnlineConsole.deps.json
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\ShoppingOnlineConsole.runtimeconfig.json
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\ShoppingOnlineConsole.runtimeconfig.dev.json
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\ShoppingOnlineConsole.dll
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\ShoppingOnlineConsole.pdb
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.csprojAssemblyReference.cache
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.AssemblyInfoInputs.cache
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.AssemblyInfo.cs
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.csproj.CoreCompileInputs.cache
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.dll
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.pdb
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.genruntimeconfig.cache
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\The_F\source\repos\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.csproj.CopyComplete
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\ShoppingOnlineConsole.exe
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\ShoppingOnlineConsole.deps.json
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\ShoppingOnlineConsole.runtimeconfig.json
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\ShoppingOnlineConsole.runtimeconfig.dev.json
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\ShoppingOnlineConsole.dll
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\ShoppingOnlineConsole.pdb
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.csprojAssemblyReference.cache
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.AssemblyInfoInputs.cache
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.AssemblyInfo.cs
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.csproj.CopyComplete
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.dll
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.pdb
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.csproj.CoreCompileInputs.cache
+C:\Users\Toka Tarek\Downloads\ShoppingOnlineConsole\ShoppingOnlineConsole\obj\Debug\netcoreapp3.1\ShoppingOnlineConsole.genruntimeconfig.cache
